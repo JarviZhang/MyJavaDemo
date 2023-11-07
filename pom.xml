@@ -11,6 +11,7 @@
     <modules>
         <module>MyClassLoader</module>
         <module>MyStaticHTTPServer</module>
+        <module>MyServletHTTPServer</module>
     </modules>
 
     <dependencies>
